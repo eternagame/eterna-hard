@@ -29,6 +29,7 @@ Links to each group are available at:
 
 - [Eterna Hard Group 1](https://eternagame.org/labs/16022932)
 - [Eterna Hard Group 2](https://eternagame.org/labs/16529751)
+- [Eterna Hard Group 3](https://eternagame.org/labs/16571909)
 
 with more to come.
 

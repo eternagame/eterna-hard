@@ -1,0 +1,571 @@
+group,puzzle_id,title,description,author_uid,author_name,solvers,folder,created_time,structure,constraints,max_gc,min_au,min_gu,locks,begin_sequence,objective
+3,3175815,Brourdian Armor,"Let it protect you from puppies, rainbows, and blue birds.",24263,Brourd,1,Vienna,2013-07-20 01:08:51,((((((((((((..((((((....))((....))))))((((((((....)))((((((.(...).))))))))))))))))))))(((((((((((((((((((.(...).)))))(((....))))))))((((((....))((....))))))((((((((....)))((((((...))))))))))))))))))))((((((((((((((((((((...))))))(((....))))))))((((((....))((....))))))((((((((....)))(((((.(...).)))))))))))))))))))((((((((((((((((((((.(...).))))))(((....))))))))((((((....))((....))))))..)))))))))))),"SHAPE,0,GU,25,GC,55",55,,25,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""((((((((((((..((((((....))((....))))))((((((((....)))((((((.(...).))))))))))))))))))))(((((((((((((((((((.(...).)))))(((....))))))))((((((....))((....))))))((((((((....)))((((((...))))))))))))))))))))((((((((((((((((((((...))))))(((....))))))))((((((....))((....))))))((((((((....)))(((((.(...).)))))))))))))))))))((((((((((((((((((((.(...).))))))(((....))))))))((((((....))((....))))))..))))))))))))"",""type"":""single""}]"
+3,3223885,Pure of Heart,"Thanks to Rave2, this puzzle needed 6 G-C pairs and crossed G-U pairs. Enjoy!",24263,Brourd,1,Vienna,2013-08-09 01:58:20,...((((....))))...((((....))))......((((....))))......((((....))))...((((....))))......((((....))))...,"SHAPE,0,GC,6",6,,,oooooxxooooxxoooooooxxooooxxooooooooooxxooooxxooooooooooxxooooxxoooooooxxooooxxooooooooooxxooooxxooooo,AAAAAUGAAAAUGAAAAAAAGUAAAAGUAAAAAAAAAAGUAAAAGUAAAAAAAAAAGUAAAAGUAAAAAAAGUAAAAGUAAAAAAAAAAGUAAAAGUAAAAA,"[{""secstruct"":""...((((....))))...((((....))))......((((....))))......((((....))))...((((....))))......((((....))))..."",""type"":""single""}]"
+3,3228726,Vineet's 5th Puzzle,All out of GC pairs :(,36921,hoglahoo,1,Vienna,2013-08-10 05:19:08,..(((((((........(((......((((((((...((((((....)))..)))..))......)))))))))........))))))).,"SHAPE,0,GC,0",0,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""..(((((((........(((......((((((((...((((((....)))..)))..))......)))))))))........)))))))."",""type"":""single""}]"
+3,3255879,Modified Chucky,Zanna's puzzle Chucky with fewer locked bases and different pair requirements,36921,hoglahoo,1,Vienna,2013-08-21 22:19:26,.......................(((.........((((((((((........((((((..(((...))).)))...)))........)))..)).))))).........))).,"SHAPE,0,GC,4",4,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooxxxxxoooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACCCUCAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":"".......................(((.........((((((((((........((((((..(((...))).)))...)))........)))..)).))))).........))).""}]"
+3,3292250,Twix V,"They made me work for it, 13 GC & 13 GU",36921,hoglahoo,1,Vienna,2013-09-03 06:19:28,..........((((..(((...))).))))((..(....).))..(((...((..(((.....(((.((((((...)))...)))..))).))).)).)))((....)).(((....))).((....)).((((.(((...)))..))))..,"SHAPE,0,GU,13,GC,13",13,,13,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""..........((((..(((...))).))))((..(....).))..(((...((..(((.....(((.((((((...)))...)))..))).))).)).)))((....)).(((....))).((....)).((((.(((...)))..)))).."",""type"":""single""}]"
+3,3417008,RedSpah's Bell,I added a pair to the long stack,36921,hoglahoo,1,Vienna,2013-10-09 18:04:19,.....................((((((.((((((.(((((((((...)))))))))..))))))(((((((((((....)))..((((((((((((((((((.(((.(((...)))..)))...)))).)))))..)))).....))))))))))))))))))),"SHAPE,0,GC,1",1,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":"".....................((((((.((((((.(((((((((...)))))))))..))))))(((((((((((....)))..((((((((((((((((((.(((.(((...)))..)))...)))).)))))..)))).....)))))))))))))))))))""}]"
+3,3975807,Pod II,"The long awaited sequel, recovered from an old stash of screenshots & improved on slightly",36921,hoglahoo,1,Vienna,2014-02-13 20:10:00,(((((((((((.(..(((.(.((((..(((...))).)))).)..))).)..))))))).))))....((((((..............))))))((((((.......))))))((((((..............))))))....((((.(((((((..(.(((..(.(((....))).).)))..).))))))))))),"SHAPE,0,GU,20,GC,2",2,,20,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""(((((((((((.(..(((.(.((((..(((...))).)))).)..))).)..))))))).))))....((((((..............))))))((((((.......))))))((((((..............))))))....((((.(((((((..(.(((..(.(((....))).).)))..).)))))))))))""}]"
+3,3992223,Abstraction?,Lampoon,36921,hoglahoo,1,Vienna,2014-02-15 23:27:00,.......(((((((.((((.((....))))))))((.(((((....)))))))((((((....))))))(((((....).)))).((..((..(..(((.(....)..))).)..(.(((..(....).)))..)..))((.((....)))))).((.(((.(....)))).))((((((....))))))(((((((....)))).)))((((((((((((((.(((.((((.(((((((((...(((..(((....).))(....).)))(....).))...)).((..(....).))..)))))).))).)))...)))))))).)))).))))))).......,"SHAPE,0",,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":"".......(((((((.((((.((....))))))))((.(((((....)))))))((((((....))))))(((((....).)))).((..((..(..(((.(....)..))).)..(.(((..(....).)))..)..))((.((....)))))).((.(((.(....)))).))((((((....))))))(((((((....)))).)))((((((((((((((.(((.((((.(((((((((...(((..(((....).))(....).)))(....).))...)).((..(....).))..)))))).))).)))...)))))))).)))).)))))))......."",""type"":""single""}]"
+3,4436208,Supercharged CaRNA,It's gonna break the speed of sound.,24263,Brourd,1,Vienna,2014-04-30 19:46:35,....(((............(((((...((((((((((((((.........................)))))))))))))).(((((((((((((((((.(..((.((((....))((....)))).))((((((((((((((....).)...)).))).)))))))....).))))))))))))).((((((((((((((((((((((...)).))))).)))))))))))......((((.((((((.((...))))...)))).)))).))))((((...((((((.((.((.(....)))))))))))((.((((....))((....)))).)).)))).)))))))))............))),"SHAPE,0,GU,33,GC,22",22,,33,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""shift_limit"":5,""shift_locks"":"""",""secstruct"":""....(((............(((((...((((((((((((((.........................)))))))))))))).(((((((((((((((((.(..((.((((....))((....)))).))((((((((((((((....).)...)).))).)))))))....).))))))))))))).((((((((((((((((((((((...)).))))).)))))))))))......((((.((((((.((...))))...)))).)))).))))((((...((((((.((.((.(....)))))))))))((.((((....))((....)))).)).)))).)))))))))............)))""}]"
+3,5456079,Drake's Trophy,"Same principle with the original Drake puzzle : Trophy
+Thank you for the knowledge Drake :)",44191,wawan151,1,Vienna,2015-01-06 07:37:14,....(((((((.((((...((((((...))))))......((...))......))))))))))).,"SHAPE,0,GC,0",0,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""shift_limit"":5,""secstruct"":""....(((((((.((((...((((((...))))))......((...))......)))))))))))."",""shift_locks"":"""",""type"":""single""}]"
+3,5465107,Matt's A few loop here and there 4,"Thanks for the original puzzle Matt :)
+Pretty easy still unless ...9GC",44191,wawan151,1,Vienna,2015-01-08 13:44:28,((((((((.(((..(....).....)))...))))((((((((((....)))))((((((((....))))((((....))))))))(((((....))))))))))((((...(((.....(....)..))).)))))))),"SHAPE,0,GU,15,GC,10",10,,15,ooooooooooooooxooooxooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooxooooxoooooooooooooo,AAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAA,"[{""shift_limit"":5,""secstruct"":""((((((((.(((..(....).....)))...))))((((((((((....)))))((((((((....))))((((....))))))))(((((....))))))))))((((...(((.....(....)..))).))))))))"",""shift_locks"":"""",""type"":""single""}]"
+3,5477763,Thought Arrow,Combination of Brourd's Arrow & Tesla's Thought Loop. Thank to both players for their excellent multiloop knowledge :),44191,wawan151,1,Vienna,2015-01-11 22:11:42,..(((((((((((((((((((((((...))))).)....((.(((((...))))))))))))))))))).((.(.(....)))))))))..,"SHAPE,0,GC,6",6,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""shift_locks"":"""",""shift_limit"":5,""secstruct"":""..(((((((((((((((((((((((...))))).)....((.(((((...))))))))))))))))))).((.(.(....))))))))).."",""type"":""single""}]"
+3,5512076,Long Nose Plier,"Extension from Tesla's Pinch, thanks for the original shape Tesla :)",44191,wawan151,1,Vienna,2015-01-18 20:45:56,(.(.(.(.(.(.((....((((.(.(....))))((((....).).))))....)).).).).).).),"SHAPE,0",,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""shift_locks"":"""",""shift_limit"":5,""secstruct"":""(.(.(.(.(.(.((....((((.(.(....))))((((....).).))))....)).).).).).).)"",""type"":""single""}]"
+3,5520161,Windmill 5,"Especially for Choo  ha..ha..still easier than Windmill 3 by Jieux :)
+Thanks again for Choo, Jieux & Ribonucleic, I think Windmill series finally end here :)",44191,wawan151,1,Vienna,2015-01-21 06:05:25,.(.(((..((..((((...))))..)(..((((...))))..))..)))).,"SHAPE,0,GC,2",2,,,ooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""shift_limit"":5,""shift_locks"":"""",""secstruct"":"".(.(((..((..((((...))))..)(..((((...))))..))..))))."",""type"":""single""}]"
+3,5530504,Britboy's Rabbit,Thanks to Brittboy for his original puzzle : A rabbit :),44191,wawan151,1,Vienna,2015-01-23 09:38:02,.....((.....))..(((....)))((((.....))))..(((.........(((.((...))....)))..))),"SHAPE,0,GU,5,GC,7",7,,5,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":"".....((.....))..(((....)))((((.....))))..(((.........(((.((...))....)))..)))"",""type"":""single""}]"
+3,5572810,Mispairing practice, ,44191,wawan151,1,Vienna,2015-02-04 15:27:08,..(.((.((...)).)).)(..((((((...))))((((...))))))..)(.((.((...)).)).)..,"SHAPE,0",,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""..(.((.((...)).)).)(..((((((...))))((((...))))))..)(.((.((...)).)).)..""}]"
+3,5573252,Jnicol's Valentines Heart,"Thanks for the original puzzle John. 
+Mispairing practice again, be patient Malcolm :)",44191,wawan151,1,Vienna,2015-02-04 17:57:23,.((((((..(..(..(..((((..(..(..(..(..(.(..(..(..(..(..((.((..((((...))))..(((....).)).((....)).))..)).)..).).)..)).)..).).)..))...))..).).)..)(..(.(..(.(.(..(..(..(..(.....).)..).)..)..)..)..)..)..))))))...,"SHAPE,0",,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":"".((((((..(..(..(..((((..(..(..(..(..(.(..(..(..(..(..((.((..((((...))))..(((....).)).((....)).))..)).)..).).)..)).)..).).)..))...))..).).)..)(..(.(..(.(.(..(..(..(..(.....).)..).)..)..)..)..)..)..))))))..."",""type"":""single""}]"
+3,5575324,Mayanne's Easy can Fly,Thanks for your original puzzle Mayanne :),44191,wawan151,1,Vienna,2015-02-05 07:39:17,..((..((.((..(((((((...)))).))).)).)).))...(.((..((...((..(.(...).)..))...))...)).)........(((.((.(.(((.((((...)))))))..).))..)))..,"SHAPE,0,GC,4",4,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""..((..((.((..(((((((...)))).))).)).)).))...(.((..((...((..(.(...).)..))...))...)).)........(((.((.(.(((.((((...)))))))..).))..))).."",""type"":""single""}]"
+3,5583495,Unrestricted parachute man,Thanks to Theravin & Drake for their original puzzle. I can't put 3 pentaloop in the hook.,44191,wawan151,1,Vienna,2015-02-07 21:02:50,..(.(....).)..(.(....).)..(.(.....).)..(.(....).)..(.(.....).)..,"SHAPE,0",,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""..(.(....).)..(.(....).)..(.(.....).)..(.(....).)..(.(.....).).."",""type"":""single""}]"
+3,5584578,Syang's : Intricate,Thanks for your original puzzle :),44191,wawan151,1,Vienna,2015-02-08 05:11:19,(((((.((((..........)))).(((((((((.....))))..(((....)))..))))).(((((.(((....))).(((....))).))))).))))),"SHAPE,0,GC,2",2,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""(((((.((((..........)))).(((((((((.....))))..(((....)))..))))).(((((.(((....))).(((....))).))))).)))))"",""type"":""single""}]"
+3,5586083,Circle with triloop, ,44191,wawan151,1,Vienna,2015-02-08 21:08:13,.((.....(((.....(((.....(((.....(((.....(((.(...)..(((.....(((.....(((.....(((.....(((.....(((..........)))...)))...)))...)))...)))...)))...)))...)))...)))...)))...)))...)).,"SHAPE,0,GC,5",5,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":"".((.....(((.....(((.....(((.....(((.....(((.(...)..(((.....(((.....(((.....(((.....(((.....(((..........)))...)))...)))...)))...)))...)))...)))...)))...)))...)))...)))...))."",""type"":""single""}]"
+3,5604324,Chevy for Millionaires #24 : Mayanne,"Congratulation Mayanne ! You are the fastest player that reach 1M point, so you deserve get your new Chevy :)
+This is a modified Brourd's puzzle : CaRNA, not hard to stabilize it, maybe the rear car & wheel will create problem, I'm sure some players can solve it with <47GC including you !",44191,wawan151,1,Vienna,2015-02-15 18:46:47,....((............((((((((...((((((((((.........................)))))))))).((((((((((((.(...((.((((....))((....)))).))(((((((((((((((....).)...)).))).))))))))...(((((.((.((....))).))))))).)))))))).((((((((....))...((.(..(.((..(((((...)).)))(....))).).).)).))))))(((((((...(((((((.((.(((((((((.((.((((...))...))).).))....))))...))))))))))))((.((((....))((....)))).)).))))))).))))))))))))............)),"SHAPE,0,GC,47",47,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""....((............((((((((...((((((((((.........................)))))))))).((((((((((((.(...((.((((....))((....)))).))(((((((((((((((....).)...)).))).))))))))...(((((.((.((....))).))))))).)))))))).((((((((....))...((.(..(.((..(((((...)).)))(....))).).).)).))))))(((((((...(((((((.((.(((((((((.((.((((...))...))).).))....))))...))))))))))))((.((((....))((....)))).)).))))))).))))))))))))............))"",""type"":""single""}]"
+3,5611714,Olenka's Simple Puzzle 1 mod.,Thanks for your original puzzle Olenka :),44191,wawan151,1,Vienna,2015-02-18 11:12:53,.((((.....))))..((((((((.....)).)).....))))..(((((((((...)))))).))).,"SHAPE,0,GC,2",2,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":"".((((.....))))..((((((((.....)).)).....))))..(((((((((...)))))).)))."",""type"":""single""}]"
+3,5674672,Cut & Paste puzzle, ,44191,wawan151,1,Vienna,2015-03-11 04:11:11,.(((.(....(.((..(.....((((..((((((.((.((.(((.....))).)....).))..).....)))))((....))))))).)).)).))).,"SHAPE,0",,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":"".(((.(....(.((..(.....((((..((((((.((.((.(((.....))).)....).))..).....)))))((....))))))).)).)).)))."",""type"":""single""}]"
+3,5683000,Unknown Fruit,"Maybe I missed easy solution. Inspired by Cody's Fruit, thanks Cody :)",44191,wawan151,1,Vienna,2015-03-14 06:01:05,(((.((.(((((..(..(..(..(..(..(..(..(..(..(..(..(..(.....)..).)..).)..).).)..).).)..).)..)(((((.................................................)))))(..(.(..(.(.(..(.(.(..(.(..(.(..(.....)..)..)..)..)..)..)..)..)..)..)..)..)..)))))))..))),"SHAPE,0,GU,5,AU,5",,5,5,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""(((.((.(((((..(..(..(..(..(..(..(..(..(..(..(..(..(.....)..).)..).)..).).)..).).)..).)..)(((((.................................................)))))(..(.(..(.(.(..(.(.(..(.(..(.(..(.....)..)..)..)..)..)..)..)..)..)..)..)..)..)))))))..)))"",""type"":""single""}]"
+3,5684955,Red's Finito,"Thanks for your high quality puzzle Red, I got 13GU, try to motivate you making more puzzles like before :)",44191,wawan151,1,Vienna,2015-03-14 23:16:10,...((.(((.(((...(((.((((.((((((....)))...))).(((.((((((((.....)).))).)))..))).)))).((((((....)))...))).))).)))))))),"SHAPE,0,GU,12,GC,7",7,,12,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""...((.(((.(((...(((.((((.((((((....)))...))).(((.((((((((.....)).))).)))..))).)))).((((((....)))...))).))).))))))))"",""type"":""single""}]"
+3,5685870,Upside down fire,"Originally from Drake's The roof on fire then Hoglahoo make a partial & name it Fleeing the fire. I just realize when I want to publish it, the shape look familiar with Hog's puzzle. Anyway, this is my version to solve Drake's original. Thanks to both players :)",44191,wawan151,1,Vienna,2015-03-15 08:33:12,((((((((((((.(((..((.((....).).))..((((((((((((...))))))).)))))((((((....).)).)))(((((((.(((((((((...)).))))).)))))(((((.(((((((....).).))))))))((((((((....)))))(((((.((((((....)))))))))((...(((((....((((((((...))))))))))))).))..))..)))..))..))))..))))))))).)))))),"SHAPE,0,GC,22",22,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""((((((((((((.(((..((.((....).).))..((((((((((((...))))))).)))))((((((....).)).)))(((((((.(((((((((...)).))))).)))))(((((.(((((((....).).))))))))((((((((....)))))(((((.((((((....)))))))))((...(((((....((((((((...))))))))))))).))..))..)))..))..))))..))))))))).))))))"",""type"":""single""}]"
+3,5687412,Mayanne's Sunday Afternoon,"Your puzzle shape is very interesting to play Mayanne, thanks :)
+   I can't make it GU free zone, maybe Dennis.",44191,wawan151,1,Vienna,2015-03-15 22:27:31,...(((((((.....(((.(((((....)))))))).((((...))))...)))))))((.((((....))((....)))).))...,"SHAPE,0,GU,1,GC,4,AU,22",4,22,1,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""...(((((((.....(((.(((((....)))))))).((((...))))...)))))))((.((((....))((....)))).))...""}]"
+3,5687609,Buah Sukun,Thanks to Cody for his original Breadfruit puzzle :),44191,wawan151,1,Vienna,2015-03-15 23:17:45,.(((.((.((((((((..(((..((((..(((..((.(((.(((.(((..((..((..(((...))).)).)).))).))).))).)).))).)))).))).))))((((.((....)).(((....))).((((....)))).(((....))).(((.((....))))).((((..((...)).)))).((((..(((...)))..)))).((((.((....))..)))).(((((...)).))).(((....))).((((....)))).(((....))).((....)).))))((((.(((.((((.(((.((.(((.(((.(((.((.((.(((...)))..))..))..))).))).))).))..)))..))))..)))..))))))))))..))),"SHAPE,0,GC,23",23,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":"".(((.((.((((((((..(((..((((..(((..((.(((.(((.(((..((..((..(((...))).)).)).))).))).))).)).))).)))).))).))))((((.((....)).(((....))).((((....)))).(((....))).(((.((....))))).((((..((...)).)))).((((..(((...)))..)))).((((.((....))..)))).(((((...)).))).(((....))).((((....)))).(((....))).((....)).))))((((.(((.((((.(((.((.(((.(((.(((.((.((.(((...)))..))..))..))).))).))).))..)))..))))..)))..))))))))))..)))""}]"
+3,5701158,Theoretical +1,"That's the end of this story. Maybe it's possible, maybe it isn't. If I ever write a solving bot, we'll find out. Until then, if anyone manages to get rid of the last one, I'd be eager to hear about it. I'd also love to check out your solutions to this version, maybe you spot something I missed. Thank you! :)",34596,drake178,1,Vienna,2015-03-20 14:27:17,((((((((((.....)))))(((((.....))))).(((((.(((((.....)))))(((((.....)))))(((((.(((((.....))))).(((((.(((((.(((((.....)))))(((((.....)))))(((((.....)))))))))).(((((.....)))))..))))).))))).))))).))))),"SHAPE,0,GC,6",6,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""((((((((((.....)))))(((((.....))))).(((((.(((((.....)))))(((((.....)))))(((((.(((((.....))))).(((((.(((((.(((((.....)))))(((((.....)))))(((((.....)))))))))).(((((.....)))))..))))).))))).))))).)))))""}]"
+3,5709029,Flip a bundle,"I'm sure at least one more AU pair would fit in there somewhere! Original <a href=""http://eterna.cmu.edu/game/puzzle/2359630/"">bundle</a> by <a href=""http://eterna.cmu.edu/web/player/38106/"">Daniel B.</a><br>Thank you! :)",34596,drake178,1,Vienna,2015-03-22 07:50:03,.....((((((((((((((....))))))).((((((...))))))........(((((((((...)))))))))((((((((((...))))))))))(((((((((...)))))))))........(((((((...)))))))((((((((...))))))))..))))))).....,"SHAPE,0,GC,0,AU,57",0,57,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":"".....((((((((((((((....))))))).((((((...))))))........(((((((((...)))))))))((((((((((...))))))))))(((((((((...)))))))))........(((((((...)))))))((((((((...))))))))..)))))))....."",""type"":""single""}]"
+3,5712224,Many loops stack,"<a href=""http://eterna.cmu.edu/game/puzzle/2596465/"">Many loop stacks</a> by <a href=""http://eterna.cmu.edu/web/player/41690/"">bigcheese</a>. Thank you! I unlocked one of the locked bases from the original (#67), because it disallowed the minimal GC solution.",34596,drake178,1,Vienna,2015-03-23 02:17:00,.((((((..........))))))..(((((((((((((((.......)))))))))))))))..((.....))........((((((...)))))).((....))(((...))).....((((((((...................))))))))((((......))))((((........)))),"SHAPE,0,GU,16,GC,6",6,,16,ooxoxooooooooooooooxoxooooooooooooooooooooooooxxoxoxooooxoxooooooooooooooooooooooooxoxoooooooooooooooooooooooooxooooooooooxooxoooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAUAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAGAAAAAAAAAAUAAGAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":"".((((((..........))))))..(((((((((((((((.......)))))))))))))))..((.....))........((((((...)))))).((....))(((...))).....((((((((...................))))))))((((......))))((((........))))""}]"
+3,5726278,Cataway's Sploot with an itch,"Thanks for your original puzzle Cataway :)
+Very stubborn to be solved, maybe I missed again simple solution.",44191,wawan151,1,Vienna,2015-03-28 15:39:12,.((((((((.(((...)))..))....))....))))..........(((.((((....).)))..))).((..((.((....)))).))..(((((......))))).....,"SHAPE,0,GC,8",8,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":"".((((((((.(((...)))..))....))....))))..........(((.((((....).)))..))).((..((.((....)))).))..(((((......))))).....""}]"
+3,5733486,Brourd's Myriad of Misfolds Level 0.5,Thanks for your original sequence Lord Brourd :),44191,wawan151,1,Vienna,2015-03-31 08:27:14,((.((..((((....))...................)).)).))((..(..((.(((....)))((....)))))..)),"SHAPE,0,GU,6,GC,9,AU,3",9,3,6,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""((.((..((((....))...................)).)).))((..(..((.(((....)))((....)))))..))"",""type"":""single""}]"
+3,5741038,Choo's sequence extension,Thanks for your base sequence from Big Fish puzzle :),44191,wawan151,1,Vienna,2015-04-03 13:49:39,(((..(.(.(.((.((.(.(.((....)))).).)..).).)).)..))),"SHAPE,0",,,,oooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""(((..(.(.(.((.((.(.(.((....)))).).)..).).)).)..)))"",""type"":""single""}]"
+3,5745066,Fewer GC from Fewer GC for Snoopy,"Thanks to Katling, Dennis & Hotcreek for their previous work :)",44191,wawan151,1,Vienna,2015-04-04 12:58:46,.((((...(((((((((.(((((..(((..(((..(((((....)).))))))))))))))))).))))))..(((((.(((((((...(((((.((((((((.(((((((((.(((((((((.(((((((.((((((..((((((((((((((((((..((..((((((((((((((....)))..)))..)))..))))))))))).)))))).)))))))).(((((.(......)((....))..))))))))))))))))))(((.((((((....))).))))))))))).))))......))).))))))(((((((.((....))))).)))).)))))))))))))(((((..((....))(......).))))))))))))))))))))),"SHAPE,0,GC,17",17,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":"".((((...(((((((((.(((((..(((..(((..(((((....)).))))))))))))))))).))))))..(((((.(((((((...(((((.((((((((.(((((((((.(((((((((.(((((((.((((((..((((((((((((((((((..((..((((((((((((((....)))..)))..)))..))))))))))).)))))).)))))))).(((((.(......)((....))..))))))))))))))))))(((.((((((....))).))))))))))).))))......))).))))))(((((((.((....))))).)))).)))))))))))))(((((..((....))(......).)))))))))))))))))))))""}]"
+3,5748886,Julia MV Warren's : Fragalius Perspecum,Thanks for your original puzzle :),44191,wawan151,1,Vienna,2015-04-05 18:54:43,.......((((((....(((.......(((.((.(((((...........................(((((..((.(((..((..........))............))).....)).....)))))...)))))......))....)))....)))))))))........,"SHAPE,0,GC,5",5,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":"".......((((((....(((.......(((.((.(((((...........................(((((..((.(((..((..........))............))).....)).....)))))...)))))......))....)))....)))))))))........""}]"
+3,5807452,Jerky,Tough and tasty,50065,Tesla'sDisciple,1,Vienna,2015-04-25 02:32:31,(.(.(..(..((..(..(.(.((..(.(....))..).).)).)..)..)..).).)).,"SHAPE,0",,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""(.(.(..(..((..(..(.(.((..(.(....))..).).)).)..)..)..).).))."",""type"":""single""}]"
+3,5810218,Dmeyer's Sloppy Joe,Thanks for your original shape Dmeyer :),44191,wawan151,1,Vienna,2015-04-25 21:40:25,.((((((((((((((((((.((((...))))..)))...)))))).(((.(((...)))....((((((((...)))).(((...)))..))))..)))..))))..((((((((.....((((...)))).)))))...........))).))).)).,"SHAPE,0,GC,12",12,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":"".((((((((((((((((((.((((...))))..)))...)))))).(((.(((...)))....((((((((...)))).(((...)))..))))..)))..))))..((((((((.....((((...)))).)))))...........))).))).)).""}]"
+3,5811869,Another Jerky,"Easier version of Tesla's Jerky, thanks for your original shape Tesla :)",44191,wawan151,1,Vienna,2015-04-26 02:49:19,.(.(.(.(..(..(..(.(....).)..))..)..).)).,"SHAPE,0",,,,oooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":"".(.(.(.(..(..(..(.(....).)..))..)..).))."",""type"":""single""}]"
+3,5819371,4X4 R, ,44191,wawan151,1,Vienna,2015-04-27 06:45:12,(..(..(..(....((....(..(..((((..(..(....((....(..(..(......)..)..))))..)..)....))....)..)..))))..)..)..),"SHAPE,0",,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""(..(..(..(....((....(..(..((((..(..(....((....(..(..(......)..)..))))..)..)....))....)..)..))))..)..)..)""}]"
+3,5819498,4X4 L, ,44191,wawan151,1,Vienna,2015-04-27 07:24:37,(..(..(..((((..(..(....((....(..(..((((..(..(......)..)..)....))....)..)..))))..)..)....))....)..)..)..),"SHAPE,0,AU,5",,5,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""(..(..(..((((..(..(....((....(..(..((((..(..(......)..)..)....))....)..)..))))..)..)....))....)..)..)..)""}]"
+3,5823364,Square, ,44191,wawan151,1,Vienna,2015-04-28 09:24:08,(..(..(....(..(....(..(....((...((.....)))))..))..))..)..),"SHAPE,0",,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""(..(..(....(..(....(..(....((...((.....)))))..))..))..)..)""}]"
+3,5823971,Fusion7 : Smiling Dragon,"Thanks to Fusion 7 for his original shape, this is the closest I can do from your original sequence :)",44191,wawan151,1,Vienna,2015-04-28 18:33:35,.((.((..((.((((..(....))).)))))).(((.((....)).)))(((.((.(....).))..)))((((((..((..((..((.((((((...)))).(((((((((.((((((....).)).)))(((((((...)))..(((....).)))))))).))..))..)))))))..)).)).)))).)).((((.((....((....((....).).((.(((.((((.((((((.(((((((.((.((..(((((((.((.((.((.((((....))..))..)))).))((.((..(((...))))))))))((..((.((...)))).)).)))).)))))).)).)))..))..)).)))).))..)))))))...))..)).))...)).,"SHAPE,0",,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":"".((.((..((.((((..(....))).)))))).(((.((....)).)))(((.((.(....).))..)))((((((..((..((..((.((((((...)))).(((((((((.((((((....).)).)))(((((((...)))..(((....).)))))))).))..))..)))))))..)).)).)))).)).((((.((....((....((....).).((.(((.((((.((((((.(((((((.((.((..(((((((.((.((.((.((((....))..))..)))).))((.((..(((...))))))))))((..((.((...)))).)).)))).)))))).)).)))..))..)).)))).))..)))))))...))..)).))...)).""}]"
+3,5832941,NUNZIO : Midget RNA,Thanks for your original shape NUNZIO :),44191,wawan151,1,Vienna,2015-05-02 07:35:34,......(..(((...(((......(((...((.....)))))..))).)).((((..(((((((...))....)))))))))(..(.(....).)..)(((((((((....((...)))))))..)))).((.(((..(((((.....))...)))......)))...)))..)......,"SHAPE,0",,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""......(..(((...(((......(((...((.....)))))..))).)).((((..(((((((...))....)))))))))(..(.(....).)..)(((((((((....((...)))))))..)))).((.(((..(((((.....))...)))......)))...)))..)......""}]"
+3,5835186,NUNZIO'S Candle Stick,Thanks for your original puzzle NUNZIO :),44191,wawan151,1,Vienna,2015-05-03 09:09:30,(((.(.(.(..((((((...)))))(((((...))))))..).).).))),"SHAPE,0,GC,2",2,,,oooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""(((.(.(.(..((((((...)))))(((((...))))))..).).).)))""}]"
+3,5837236,NUNZIO'S Long Candle Stick,Thanks again for your original idea :),44191,wawan151,1,Vienna,2015-05-04 08:16:14,((.(.(.(.(.(.(.(.(.(((((((...))))))((((((...))))))).).).).).).).).).)),"SHAPE,0,GC,3",3,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""((.(.(.(.(.(.(.(.(.(((((((...))))))((((((...))))))).).).).).).).).).))""}]"
+3,5839605,Sigil,GC orientation is the key to closing the 1-1 loops.  ,50065,Tesla'sDisciple,1,Vienna,2015-05-05 05:04:57,..((.((((((..((..((((((((...)))))))).))))))))))..((((((((.((((((((....))))).)).(.((((.....)))).)(.((((....)))).)(.((((.....)))).).((.(((((....)))))))).))))))))..((((((((((.((((((((...))))))))..))..)))))).))..,"SHAPE,0,GC,9",9,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""..((.((((((..((..((((((((...)))))))).))))))))))..((((((((.((((((((....))))).)).(.((((.....)))).)(.((((....)))).)(.((((.....)))).).((.(((((....)))))))).))))))))..((((((((((.((((((((...))))))))..))..)))))).))..""}]"
+3,5848426,Dmeyer : I can c you,Thanks for your original puzzle Dmeyer. ,44191,wawan151,1,Vienna,2015-05-08 08:05:29,(((...(((((((...)))).((((((((...))))).((...)).)))....)))))).(((...))),"SHAPE,0,GC,10",10,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""(((...(((((((...)))).((((((((...))))).((...)).)))....)))))).(((...)))""}]"
+3,5855846,Altered Sigil, ,50065,Tesla'sDisciple,1,Vienna,2015-05-11 05:46:34,((((...))))..((((..(((.(.(((.....))).)..)).(.((((.(.....))))).)(.((((..(....)..(.((....)).)..(....)..)))).)(.(((((.....).)))).).((..(.(((.....))).).)))..))))..((((...)))),"SHAPE,0,AU,10",,10,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""((((...))))..((((..(((.(.(((.....))).)..)).(.((((.(.....))))).)(.((((..(....)..(.((....)).)..(....)..)))).)(.(((((.....).)))).).((..(.(((.....))).).)))..))))..((((...))))"",""type"":""single""}]"
+3,5861661,NUNZIO's Hairpin,Thanks to NUNZIO for the original shape & this shape has been modified by Legofan & Spacemiser.,44191,wawan151,1,Vienna,2015-05-13 08:30:25,(..(((((((.(..(.((((((((((((((.(..(.((((((((...))))))))..)..))))...))))...))))...))))..)..)))))))..),"SHAPE,0,GC,0",0,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""(..(((((((.(..(.((((((((((((((.(..(.((((((((...))))))))..)..))))...))))...))))...))))..)..)))))))..)""}]"
+3,5868257,NUNZIO's Mind's Eye,Thanks for your original puzzle :),44191,wawan151,1,Vienna,2015-05-15 09:21:52,(..(.......((.((...........................)).((.((...)).(.(((.((...)).).))).)).....)).......)..),"SHAPE,0",,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""(..(.......((.((...........................)).((.((...)).(.(((.((...)).).))).)).....)).......)..)""}]"
+3,5874442,Train of Thought,I lost it somewhere...,50065,Tesla'sDisciple,1,Vienna,2015-05-17 06:27:40,.((((((((((((((((((((....)).)).((.(.(....)))))))))))))((((....).).)).)).))))).,"SHAPE,0,GC,10",10,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":"".((((((((((((((((((((....)).)).((.(.(....)))))))))))))((((....).).)).)).)))))."",""type"":""single""}]"
+3,5877182,Stack & Loop,Mispairing training,44191,wawan151,1,Vienna,2015-05-18 03:55:12,((.((..(((((((....).....))..))).).((.................)).)).((.............)).((((((....))..))).)..(....).)).,"SHAPE,0",,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""((.((..(((((((....).....))..))).).((.................)).)).((.............)).((((((....))..))).)..(....).)).""}]"
+3,5878124,Stack & Bulge,"Mispairing training, based on Hog's Big & Ugly 3.
+Thanks Hoglahoo :)",44191,wawan151,1,Vienna,2015-05-18 08:14:07,(((((((((....))))((....))(((((.....(((....)).)))).))))))).((.((..(.((((....))).).(.(((((...)))))).((.((((....)))).).).)..).))).,"SHAPE,0",,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""(((((((((....))))((....))(((((.....(((....)).)))).))))))).((.((..(.((((....))).).(.(((((...)))))).((.((((....)))).).).)..).))).""}]"
+3,5881353,Loop 1-..., ,44191,wawan151,1,Vienna,2015-05-19 07:50:58,((...(...((..(...(..(....(....((....((...(.....).)).)).).)..).).)).).)),"SHAPE,0",,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""((...(...((..(...(..(....(....((....((...(.....).)).)).).)..).).)).).))""}]"
+3,5887125,1-...Loop 3, ,44191,wawan151,1,Vienna,2015-05-21 12:13:34,((.((....((.((....((.((.(.................................................)..)).....)).)).....)).)).....)),"SHAPE,0",,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""((.((....((.((....((.((.(.................................................)..)).....)).)).....)).)).....))""}]"
+3,5897157,Dmeyer's Ins and Outs,Thanks for your original puzzle Dmeyer :),44191,wawan151,1,Vienna,2015-05-25 02:29:00,.....((((((((........((((.....))))))))...(((..(((((((((..........................(((((((...........................))))))))))))))))............................)))...)))).((((...(((............................((((((((((((((((...........................)))))))..........................)))))))))..)))...((((((((.....))))........)))))))).....,"SHAPE,0,GC,8",8,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":"".....((((((((........((((.....))))))))...(((..(((((((((..........................(((((((...........................))))))))))))))))............................)))...)))).((((...(((............................((((((((((((((((...........................)))))))..........................)))))))))..)))...((((((((.....))))........)))))))).....""}]"
+3,5897685,Dmeyer's Short & Sweet mod,"Thanks for your original Short & Sweet puzzle Dmeyer :)
+Can be very easy or stubborn !",44191,wawan151,1,Vienna,2015-05-25 08:31:08,.(((((((((((((((((((((..(((((...))))).........))))).....)))))).....))))))....)))).,"SHAPE,0,GC,0",0,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":"".(((((((((((((((((((((..(((((...))))).........))))).....)))))).....))))))....)))).""}]"
+3,5902795,Pasi Petrell's Metroid mod,Thanks for your beautiful shape Pasi Petrell. Need energy knowledge to close the multiloop :),44191,wawan151,1,Vienna,2015-05-27 10:25:55,(((.((............)).(((.((((.((.(((.((....).)..)))...))(((.((..(....).))))))))).(.(.(....).))..(((....).).).((((((((.(....)..)).)))((...(((..(.(....)).))).)).))).))).((...........)).))),"SHAPE,0",,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""(((.((............)).(((.((((.((.(((.((....).)..)))...))(((.((..(....).))))))))).(.(.(....).))..(((....).).).((((((((.(....)..)).)))((...(((..(.(....)).))).)).))).))).((...........)).)))""}]"
+3,5905773,Syang's Simplicity mod,Thanks to Syang for the original puzzle & Spacemiser that motivate me to do another mod :),44191,wawan151,1,Vienna,2015-05-28 06:02:31,..(((((((..(((....))).)))......))))(((((...((((...)))).....))))).,"SHAPE,0,GC,1",1,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""..(((((((..(((....))).)))......))))(((((...((((...)))).....))))).""}]"
+3,5936960,Hyphema's House of RNA,Thanks for your original shape Hyphema.:),44191,wawan151,1,Vienna,2015-06-06 06:00:31,.(((..(((((..(..(...(.((....))..)...(.(..(((..((.(...((..(..(..(.(..(.(..((..(.(..(.(..(.(.....))..))..))..).)..))..))..).)..)))).)..)))..)..)...).)..)))))..)(..(((((..(.(...(..(..(((..(.((((..(.(..((..((..(.(..((..((..((.....).)..).)..).)..))..).)..).)..)..)..))...).))..)))..).)...(..((....)).)...)..)..)))))..))).,"SHAPE,0",,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":"".(((..(((((..(..(...(.((....))..)...(.(..(((..((.(...((..(..(..(.(..(.(..((..(.(..(.(..(.(.....))..))..))..).)..))..))..).)..)))).)..)))..)..)...).)..)))))..)(..(((((..(.(...(..(..(((..(.((((..(.(..((..((..(.(..((..((..((.....).)..).)..).)..))..).)..).)..)..)..))...).))..)))..).)...(..((....)).)...)..)..)))))..))).""}]"
+3,5967501,Brourd's Pinball part3 partial mod,Thanks for your original puzzle Brourd :),44191,wawan151,1,Vienna,2015-06-14 21:29:49,(((((((((..((((...))))((......(((((..(((..............)))(....))))..((((....)(((((....)((((..(..((..((.......................)).)).).))))..))))..)))))......))))))).).).)),"SHAPE,0",,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""(((((((((..((((...))))((......(((((..(((..............)))(....))))..((((....)(((((....)((((..(..((..((.......................)).)).).))))..))))..)))))......))))))).).).))""}]"
+3,5967883,Sequence Combination, ,44191,wawan151,1,Vienna,2015-06-15 02:14:33,((.((.(.(((((((..((..(.(..(..(..(.(..(((....))).).))..)).).))..)))).).).)..)..)))).,"SHAPE,0",,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""((.((.(.(((((((..((..(.(..(..(..(.(..(((....))).).))..)).).))..)))).).).)..)..)))).""}]"
+3,5990075,Mickw_6GCish ?,Thanks for your original puzzle Mickw :),44191,wawan151,1,Vienna,2015-06-22 10:46:44,((....(((.((((....(((((...((..((((..((.((...))....))..)))))))))))..)))).)))))...((....((((.((.((...(((((((..(((.(((((((((........))))....................))))).)))))))))))).)))))))).,"SHAPE,0,GC,6",6,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""((....(((.((((....(((((...((..((((..((.((...))....))..)))))))))))..)))).)))))...((....((((.((.((...(((((((..(((.(((((((((........))))....................))))).)))))))))))).)))))))).""}]"
+3,5995623,Eized's Hanging Lightbulbs,Thanks for your original puzzle Eized. Is your solution still works ?,44191,wawan151,1,Vienna,2015-06-24 10:08:45,(..(...)..).(..(....)..).....(..(......)..)..(..(......)..)...(..(........)..).(..(......)..).(..(.........)..)..........(..(..........)..).........(..(................)..)......(..(.............)..).........(..(...................)..),"SHAPE,0",,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""(..(...)..).(..(....)..).....(..(......)..)..(..(......)..)...(..(........)..).(..(......)..).(..(.........)..)..........(..(..........)..).........(..(................)..)......(..(.............)..).........(..(...................)..)""}]"
+3,6024359,Brourd : Look your database before you flip,Thanks to Eterna's God for his Look both ways...puzzles :)<br/>This is a reverse direction & I don't understand why the original multiloop sequence can't be applied directly. ,44191,wawan151,1,Vienna,2015-07-05 21:00:35,(..((..((.....((.((.....((..(((...........)))..)))).((((..(((...........)))..)).....)).((.....((..(((...........)))..)))).))))..))..),"SHAPE,0",,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""(..((..((.....((.((.....((..(((...........)))..)))).((((..(((...........)))..)).....)).((.....((..(((...........)))..)))).))))..))..)"",""type"":""single""}]"
+3,6025615,Random boosting & blocking,Just a random shape to hone your mispairing skill :),44191,wawan151,1,Vienna,2015-07-06 05:38:56,....((((((((((.(((((....((((.(((.....(((.......(((((.((((..(((.((((((....)))..))))))....))))...............)))))..))).)))))))....)))))))))).))))),"SHAPE,0,GC,0",0,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""....((((((((((.(((((....((((.(((.....(((.......(((((.((((..(((.((((((....)))..))))))....))))...............)))))..))).)))))))....)))))))))).)))))"",""type"":""single""}]"
+3,6039506,Eized's Hairpin,"From Eized's Take care of the Hairpins, thank you for your original shape :)",44191,wawan151,1,Vienna,2015-07-13 05:07:46,((((((..((....))....((((((((((((..((....))....((((((((((((..((....)).((....))..))))))..((....))....))))))))))))..((....))....)))))))))))),"SHAPE,0,GC,0",0,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""((((((..((....))....((((((((((((..((....))....((((((((((((..((....)).((....))..))))))..((....))....))))))))))))..((....))....))))))))))))"",""type"":""single""}]"
+3,6051384,Tesla's Bubbles,"Using 4 multiloops here ( negative energy) make it easier to stabilize the structure compare to loop (positive energy).
+Have 1 AU to block GC mispairing.",44191,wawan151,1,Vienna,2015-07-19 18:32:07,((......((.((......((.((...............)).........((..............)).))......)).((......((..............))......)).((......((.((..............)).........((..............)).))......)).((......((.............))......)).((......((.((..............)).........((..............)).))......)).((......((..............))......)).((......((.((..............)).........((...............)).))......)).))......)),"SHAPE,0",,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""((......((.((......((.((...............)).........((..............)).))......)).((......((..............))......)).((......((.((..............)).........((..............)).))......)).((......((.............))......)).((......((.((..............)).........((..............)).))......)).((......((..............))......)).((......((.((..............)).........((...............)).))......)).))......))"",""type"":""single""}]"
+3,6055463,Another Tesla Bubble,"Original idea comes from Tesla, thanks Tesla :)",44191,wawan151,1,Vienna,2015-07-22 04:16:06,((.....((.((.....((.((...........)).........((...........)).)).....)).((.....((...........)).....)).((.....((.((..........))...........((...........)).)).....)).((.....((........))....)).((....((........)).....)).((.....((.((...........))..........((............)).)).....)).((.....((..........)).....)).((.....((.((...........)).........((...........)).)).....)).)).....)),"SHAPE,0",,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""((.....((.((.....((.((...........)).........((...........)).)).....)).((.....((...........)).....)).((.....((.((..........))...........((...........)).)).....)).((.....((........))....)).((....((........)).....)).((.....((.((...........))..........((............)).)).....)).((.....((..........)).....)).((.....((.((...........)).........((...........)).)).....)).)).....))"",""type"":""single""}]"
+3,6087926,4 minutes puzzle,"It's not a puzzle anyway, less than 10 minutes :)",44191,wawan151,1,Vienna,2015-08-01 23:31:27,..(..(.....(....(....(.....(..(.......(..(.......................................)..).........)..).......)......)......).......)..)..,"SHAPE,0",,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""..(..(.....(....(....(.....(..(.......(..(.......................................)..).........)..).......)......)......).......)..)..""}]"
+3,6089086,10:01 puzzle,I hope this can be solved in 601 seconds by monster solvers :),44191,wawan151,1,Vienna,2015-08-02 16:20:05,..(..(.....(....(....(.....(..(......(......(..(......(..(.........................................................................)..).......)..).......).......)..).......)......)......).......)..)..,"SHAPE,0",,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""..(..(.....(....(....(.....(..(......(......(..(......(..(.........................................................................)..).......)..).......).......)..).......)......)......).......)..).."",""type"":""single""}]"
+3,6100259,SYANG,"Just a mispairing practice. Bottom part is from  Brourd's  http://eterna.cmu.edu/web/puzzle/453559/   or Stinegril    
+http://eterna.cmu.edu/web/puzzle/3142296/
+Can't make a better shape Syang :)",44191,wawan151,1,Vienna,2015-08-08 21:27:22,((..((..((..((..((..((..((..((..(((((((((((.((((((....((..((((((((((..((....((((((((((.(.(.(.(.(((((((((.((((((((((.(.(.(.(.((((....)).))..)..)..)..)..)))))))))))).).).).).).))))))))).).).).).))))))))))........)))))))))))).))))((((.(....)).)))))).)))..(...(..(.((.((.((.((.((.((....).)..))..))..))..))..))..)..)...)..)).)).)).)).)).)).)).)).)),"SHAPE,0",,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""((..((..((..((..((..((..((..((..(((((((((((.((((((....((..((((((((((..((....((((((((((.(.(.(.(.(((((((((.((((((((((.(.(.(.(.((((....)).))..)..)..)..)..)))))))))))).).).).).).))))))))).).).).).))))))))))........)))))))))))).))))((((.(....)).)))))).)))..(...(..(.((.((.((.((.((.((....).)..))..))..))..))..))..)..)...)..)).)).)).)).)).)).)).)).))""}]"
+3,6101507,Parallel 1-2 loop,"Another mispairing practice, the right 1-2 loop is from Brourd's  http://eterna.cmu.edu/web/puzzle/453559/
+
+Thank you Brourd :)",44191,wawan151,1,Vienna,2015-08-09 20:08:14,((((..((((..(((..(....)((.(....)..)))))(((.(.(....)..)..)))))))(((.(.(.(....)..)..)..)))))))(((((.(.(.(.(....)..)..)..)..)))))(((((((((((((.(.(.(.(.(....)..)..)..)..)..)))))))))(((...)))..)))),"SHAPE,0",,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""((((..((((..(((..(....)((.(....)..)))))(((.(.(....)..)..)))))))(((.(.(.(....)..)..)..)))))))(((((.(.(.(.(....)..)..)..)..)))))(((((((((((((.(.(.(.(.(....)..)..)..)..)..)))))))))(((...)))..))))"",""type"":""single""}]"
+3,6104928,Tesla's Hook,Thanks for your original shape Tesla :),44191,wawan151,1,Vienna,2015-08-11 18:10:56,((.((...(..(.(.((.((.(....)..).)..).)..).)..)...((......((....)).)).)).....)).,"SHAPE,0",,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""((.((...(..(.(.((.((.(....)..).)..).)..).)..)...((......((....)).)).)).....)).""}]"
+3,6152850,Zanna & AndrewKae : Midnight Clear,Just add 1 more GU. Hogtato 9GC ha..ha..,44191,wawan151,1,Vienna,2015-08-31 04:55:17,..((((.(((.((.((.(((.(((.(((....))))))))))))))))....(((.................................)))....((((((((((((((((....))).))).))).)).)).))).))))..,"SHAPE,0,GU,13,GC,10",10,,13,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""..((((.(((.((.((.(((.(((.(((....))))))))))))))))....(((.................................)))....((((((((((((((((....))).))).))).)).)).))).)))).."",""type"":""single""}]"
+3,6156852,Starryjess & AndrewKae : V modified,"Thanks to Starryjess For her original puzzle & Andrew motivate me to modified the puzzle :) Maybe my solution is too complicated, maybe you can solve it easier :)",44191,wawan151,1,Vienna,2015-09-01 08:26:29,.................(..(.(.(((..((..(((((....)).)))..)..........)..))).))..),"SHAPE,0,GC,0",0,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":"".................(..(.(.(((..((..(((((....)).)))..)..........)..))).))..)"",""type"":""single""}]"
+3,6164919,AndrewKae's Drooping Flower,Thanks for your original puzzle Andrew :),44191,wawan151,1,Vienna,2015-09-05 07:03:45,(((....))).(((....))).(((....))).(((....))).(((....))).((((....((.(((.....))).)).......)))),"SHAPE,0,GC,0",0,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""(((....))).(((....))).(((....))).(((....))).(((....))).((((....((.(((.....))).)).......))))"",""type"":""single""}]"
+3,6184676,G Minor, ,50065,Tesla'sDisciple,1,Vienna,2015-09-14 04:38:09,((..(.((.(..((...)).(....)..).).).).(....).)).,"SHAPE,0",,,,oooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""((..(.((.(..((...)).(....)..).).).).(....).)).""}]"
+3,6223049,One Twelve,GC / GU Constraints,50065,Tesla'sDisciple,1,Vienna,2015-09-29 20:04:47,..(((((((((((((((((..((((((((((((((((((....).)).)))).))).))))))))...(....)...))))))))).)))).))).)....,"SHAPE,0,GU,12,GC,1",1,,12,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""..(((((((((((((((((..((((((((((((((((((....).)).)))).))).))))))))...(....)...))))))))).)))).))).)....""}]"
+3,6254953,Wind-up Toy,Not sure which one to wind up though,50065,Tesla'sDisciple,1,Vienna,2015-10-15 18:46:48,((((....))(((..((.....((.(....)(....)..)).....((.((...)).((...)).)).....(((((....)).((....))))).....))..)))))..,"SHAPE,0",,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""((((....))(((..((.....((.(....)(....)..)).....((.((...)).((...)).)).....(((((....)).((....))))).....))..))))).."",""type"":""single""}]"
+3,6269312,Tilt,Enjoy!,50065,Tesla'sDisciple,1,Vienna,2015-10-25 00:40:16,..((.(((((...(...)......((((..(.(.(...(.(...(....)).)).))..))))...)))))....(((((...(((((..(.((.((....)...).)...).)..)))).)......(...)...))))).))..,"SHAPE,0",,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""..((.(((((...(...)......((((..(.(.(...(.(...(....)).)).))..))))...)))))....(((((...(((((..(.((.((....)...).)...).)..)))).)......(...)...))))).)).."",""type"":""single""}]"
+3,6305460,Stand,GC limit,50065,Tesla'sDisciple,1,Vienna,2015-11-11 06:27:32,.....((..(....)((.((.(....).((....))))(.(((((((((..(.(.((.....))).(.((....)))..).))))))))).).)).)).,"SHAPE,0,GC,13",13,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":"".....((..(....)((.((.(....).((....))))(.(((((((((..(.(.((.....))).(.((....)))..).))))))))).).)).)).""}]"
+3,6463511,Unraveled,"Or Dude's Shoes Mutated
+
+http://www.eternagame.org/web/puzzle/4060422/",50065,Tesla'sDisciple,1,Vienna,2016-01-20 05:30:37,(((..((.(..((.(.(..(..((..((..(..(.(.(.((...........))))).).))..)).).)).)).)))..))).....(((((..(((.(.(..(.(.(.((((...........)).).)..)..).)..)..).).))..)))))..,"SHAPE,0",,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""(((..((.(..((.(.(..(..((..((..(..(.(.(.((...........))))).).))..)).).)).)).)))..))).....(((((..(((.(.(..(.(.(.((((...........)).).)..)..).)..)..).).))..))))).."",""type"":""single""}]"
+3,8771104,RedSpah's Tightened Monsters,"Been on a RedSpah solving spree and was reminded that he liked to spin quite the yarn. Below is one of his stories.
+Original puzzle can be found here http://www.eternagame.org/web/puzzle/3560102/
+
+
+
+Puzzle Description
+DYYYN DYYYN DYY-*Click*
+
+Come on Krasny, time to wake up, time to catch the day, to use your life to the ful-
+
+Oh, who am I kidding.
+
+I will get up, wear that old tarnished guard uniform, and watch as freaks of all kinds lie to the court, just to avoid the unavoidable.
+
+Perfect way to waste your life.
+
+Oh don't frown Krasny, there are lots of pluses to this situation!
+
+Like... er...
+
+The salary is pretty decent, and... um...
+
+You have twice more vacation days than everyone else!
+
+Hey, it's you who wanted some pluses.
+
+Shut up brain, you're not helping.
+
+
+DYYYN DYYN DYY*Crack*YYYY*Poof*YYyyyy...
+
+Oh for god's sake...
+
+Third broken alarm clock in this month.
+
+And it's only 10th of November...
+
+I swear, it'd be cheaper to buy a rooster instead of having to repair this thing over and over again.
+
+
+*knock Knock KNOCK*
+
+""Come in.""
+
+*Whiz*
+
+""Krasny, I need your he- Why are you still in bed?""
+
+""I'm figuring out the meaning of life. By the way, hi Ivan.""
+
+""What? Okay, nevermind- I've heard the lieutenant calling every guard to help him at the main court today.""
+
+""Oh for hell's sake, did that old idiot completely lose his mind again?""
+
+""Mozhet, but rumor has it that they've caught a group of mutants disguising as humans at one of higher blocks.""
+
+""Oh thank you Mr. Hitler, I didn't know that if someone got his arm burnt off by a radiation it means that he isn't a human anymore.""
+
+""What are you- Oh, no, Krasny, I didn't mean that. I meant like a entirely new species, created by radiation.""
+
+""Yea, and I'm a Ballerina. Ivan, these things only happen in sci-fi books.""
+
+""Krasny, I'm serious!""
+
+""And I'm serious that I'll have to perform Lebedinoye Ozero in a few minutes! I haven't even put my make-up on yet!
+
+""Eehhh... I should have known better than try to persuade you.""
+
+""You should have.""
+
+""Anyway, Lt. Gburov still expects us in five minutes.""
+
+""So run, at most he'll simply tell me off or something.""
+
+""Whatever you wish, Ballerina Krasny.""
+
+*laughter*
+
+
+""Gvardiya, today we'll have pretty special freaks to watch for. We still don't fully know if they're dangerous or not, so hands on rifles, and eyes on our... 'guests'. Understood!?""
+
+""DA YEST, SIR!""
+
+""That's what I wanted to hear. Gamurov, Mieklyk and Faniatan will guard in front of the entrance. Hazrenov, Kawalyk and Makasha will cover left side of court room. Krasny, Sakava and Sasha will take the right side. The rest goes to balconies at the floor with me. Remember, they're unknown mutants. Expect everything. Also, you've just received authorization 17-B, known as 'shoot to kill', so you don't have to worry about repercussions if something goes to hell. Understood!?""
+
+""YES, SIR!""
+
+
+If there was one word that could descibe atmosphere in the court room, it'd be “Tense”.
+
+Everyone was looking nervously at the door, waiting for the so-called mutants.
+
+Noone knew how they were going to look like, someone even proposed things like giant amoebas or three-headed rats.
+
+Their imagination was kinda ruined by the fact that if these mutants couldn't talk, they wouldn't have been dragged here. And as far as I know, neither an Amoeba nor a Rat can speak good old Russian.
+
+Except imperialist rats. They're the sole exception.
+
+Even without looking at the extra guards, a bystander could easily tell that today’s hearing will be extraordinary.
+
+Instead of ol’ Ferazov, Vice-Overseer Kamazov was sitting on judge’s chair, and the Overseer himself along with several of high-ranked officers was looking through the balcony at the floor.
+
+Suddely the tension was broken by a voice from behind the main door.
+
+""The prisoners are here.""
+
+Doors opened, and a Guard walked through them.
+
+""Here they come, Mr. Sceptic."" - Ivan whispered.
+
+""My ass."" - Krasny replied.
+
+Both looked up, as a group of about two dozen figures with cloaks and hoods which covered all their body walked through the door, and stopped in front of Judge's pedestal.
+
+Okay, that directly excludes Amoebas or Rats.
+
+Figures were humanoid, althrough Krasny felt there was something wrong with their proportions.
+
+He also noticed that not all of them were the same height - three or four of them were much smaller, and sticked very close to the bigger ones.
+
+“Children?” - Krasny thought.
+
+Judge stood up and started.
+
+""Starting hearing number Seven-Thousand-Four-Hundred-Twenty-Six. Today is Wednesday, Tenth of November, year 2044.""
+
+Krasny wondered if standard Formula of Opening-Anthem of Bunker-Accusation-Defence-End was going to be used here.
+
+""Please all stand up for the Official Anthem of Nuclear Bunker Twelve, also known as 'The Leningrad'.""
+
+Leningrad... No one ever used that name. The only name for this bunker in use was ""The Heckhole"".
+
+Heckhole didn't really have it's own Anthem. Instead of that it used...
+
+""An unbreakable union of free republics,
+
+The Great Rus' has welded forever to stand...""
+
+...the Anthem of USSR with slight modifications. Like putting ""The Leningrad"" in place of ""Soviet Union"" and ""Genarzov"" and ""Sakoyski"", two first overseers of the bunker in place of ""Stalin"" and ""Lenin"". No one ever noticed that it completely broke the rhythm of the Anthem.
+
+After they had finished singing, Judge proceeded with the accusations.
+
+""You have been accused of hiding in the human camps close to the surface for the last three months, stealing the food and water supplies, and lying to the officers of Nuclear Bunker Twelve, do you have anything in your defence?”
+
+Group visibly clenched together.
+
+After few seconds, one of the figures stepped forward.
+
+Just when Krasny thought that the room was gonna explode because of the anticipation, figure suddenly spoke.
+
+“We-w-we had to. Ou-o-our children would have st-s-starved to de-death if we hadn’t done that.”
+
+It’s voice was very shaky and full of stuttering, which combined with high pitch made it pretty difficult to understand.
+
+“Parental Care 101.” - Ivan whispered.
+
+“Drop it.” - Krasny answered.
+
+“Being poor doesn’t justify thievery.”
+
+“Bu-b-bu-but this was the only way! We h-have no money, no goods, nothing!”
+
+“So what?”
+
+Figure stepped back, visibly suprised.
+
+“We did it for our children!”
+
+“And I’m doing it for the good of us all. Besides, couldn’t you all just go back to whatever sewer you came from and leave us, the higher race alone!?”
+
+Krasny suddenly reminded himself why he hated Vice-Overseer.
+
+Majority of the figures put their heads down, angered whispering could also be heard from the group. 
+
+“Goddamn Nazi.” - Krasny muttered through his teeth.
+
+He took a quick glance from Ivan before Vice-Overseer spoke again.
+
+“How dare you enter our camps and leech off us, the higher race, you little pesky freaks!?”
+
+Several high-pitched quiet squeaks and sobs could be heard from inside the group.
+
+“Hold me or I’ll kill him.” - Krasny muttered to Ivan.
+
+“Put your fingers in your ears, na na na, na na na…” - Ivan joked.
+
+“Why are you even using these robes and hoods? Are you hiding something, you mutated freaks!?”
+
+Krasny bit his lower lip so hard that a little streak of blood appeared on his chin and uniform.
+
+Suddenly, he heard lieutenant speaking from the balcony.
+
+“Sergeant Krasny, is everything alright?”
+
+Krasny noticed that everyone, few cloaked figures included, were looking at him.
+
+“No, no, I’m fine, I just… was distracted by something.”
+
+“Judge, proceed.”
+
+Vice-Overseer moved his glare back at cloaked group, and continued.
+
+“If you don’t have anything more in your defence, I’ll proceed to sentence immediately.”
+
+Vice-Overseer looked at Overseer and officers, who simply nodded in return.
+
+“Ekhm, In the name of Nuclear Bunker Twelve, I, Colonel Special Judge Illiadij Kamazov, sentence this group of freaks to…”
+
+Tension in the room tended to infinity.
+
+“...Death by firing squad with immediate effect.”
+
+If Krasny had eaten any breakfast today, it would have already been on it’s way back to the world via his mouth.
+
+Sobbing from within the group turned into weeping in despair.
+
+Almost all guards were as shocked as Krasny was, most of them with fear and disgust on their faces.
+
+“This isn’t happening… this can’t be happening...” - Krasny whispered to himself.
+
+He looked to the side, only to see frowning Ivan, with sorrow on his face.
+
+Suddenly, one of the figures spoke again.
+
+“Yo-You can’t do that! This is inhum-”
+
+“YOU are inhuman, you little abnormality of nature.”
+
+All of a sudden, Kamazov spoke again.
+
+“What are you hiding, freaks? Show me, *incomprehensible*, SHOW ME!”
+
+That man was borderline insane.
+
+Krasny looked at Overseer, who frowned, but didn’t spoke anything.
+
+“Oh no…” - Ivan muttered.
+
+Figures looked at one another, and all at once removed their hoods.
+
+Moy Boh…
+
+Krasny didn’t even know how he was supposed to feel. All he could do was stare at them.
+
+He was right, there was something wrong with their proportions.
+
+Their heads were too large, and shaped more like a goat’s head.
+
+They even had… what were they called… oh yea, muzzles.
+
+Their heads would look almost exactly like a goat’s head, if it weren’t for the eyes.
+
+Giant, elliptical but unnervingly human-looking eyes, placed directly in front of their faces.
+
+Some of them had even streaks of tears running down their cheeks.
+
+This wasn’t the end of their similarities to the Capra genus, as they also had hair on their bodies.
+
+Krasny looked once again at little figues, only to see huge eyes with blue irises and tears in the corners staring back at him.
+
+Krasny didn’t feel fear nor disgust not anger anymore.
+
+They all were replaced by numbness, which shortly flooded his entire body.
+
+Silence in the room was broken by Kamazov.
+
+“Disgusting. Guards, take them to the training grounds and execute the sentence!”
+
+For a longer while, nobody moved nor spoke anything.
+
+“GUARDS!”
+
+After a few seconds, the first guard moved.
+
+Krasny would clearly see unease and abashment written on his face.
+
+After him, others followed.
+
+Krasny took last quick glance at a little figure.
+
+It was hugging leg of one of taller figures, burying its face in robes.
+
+Numbness was replaced by a freezing void.
+
+His mind was frozen still.
+
+After a while, he found himself following the group of guards.
+
+He was frozen when group walked down the stairs.
+
+He was frozen when they entered training grounds.
+
+He was frozen when they aimed their rifles at the innocent.
+
+He was frozen when screams of the innocent filled the Bunker.
+
+
+
+
+
+
+[PATIENT CARD] 
+ID: 55082
+First Name: Siergey
+Middle Name: Izaak
+Last Name: Krasny
+Sex: Male
+Age: 38
+Occupation: Courtroom Guard (temporarily suspended due to psychological problems)
+
+Medical History:
+2019 - Chickenpox
+2025 - Broken Radius
+2027 - Broken Tibia
+2033 - Pneumonia
+2036 - Radiation Sickness
+2042 - Influenza
+2044 - Psychosis
+
+
+[SUPPLEMENT 55082-3A]
+
+Transcript of Psychoanalitic Session conducted by Dr. Sachan Favionov at 25th of November, 2044.
+
+Friend of patient, Crpl. Ivan Sahava was asked to join.
+
+[K] - Patient(Siergey Krasny)
+[D] - Dr. Favionov
+[S] - Friend of patient(Ivan Sahava)
+
+Start of transcript. Patient is sitting on his bed, mindlessly staring at the wall.
+
+Doctor and Friend(from now on called simply Ivan) enter the room. Patient doesn’t react.
+
+[D]: Good afternoon, Siergey.
+
+No reation from the patient.
+
+[S]: Krasny! Oh god, what happened to you!?
+
+Still no reaction.
+
+[D]: Mr. Sahava, I don’t think that calling him by his last name is going to help him.
+
+[S]: He’s already used to it Doc. Everybody calls him ‘Krasny’.
+
+[D]: I see. *to the patient* Sier-, Krasny, your friend wants to talk with you.
+
+Ivan sits down on the patient’s bed.
+
+[S]: Krasny, come back to us. I don’t know what happened to you, but together we can overcome it.
+
+Still no reaction.
+
+[D]: Several of his coworkers told me that his psychosis may be caused by things that happened on whatever happened on hearing #7426.
+
+Patient raises his head, and looks in the direction of doctor, but says nothing.
+
+[D]: However, I have read it, and I haven’t noticed anything that would cause such a response.
+
+Ivan gives the doctor an angry glare.
+
+The patient looks down at the floor.
+
+[D]: I mean, it’s just a bunch of bandits sentenced to death by stealing some important key data.
+
+Ivan has a shocked expression on his face.
+
+The patient does nothing.
+
+[S]: Bandits!? Lemme look at this, Doc.
+
+Ivan walks to the doctor and reads the report.
+
+[S]: Suki! They have masked everything!
+
+Patient looks at the Ivan.
+
+[K]: Why am I not suprised…
+
+[S]: Krasny! You’re back!
+
+[K]: Did I leave anywhere? I have listened to everything. And it only reinforces what I know happened.
+
+[S]: What are you talking about?
+
+[K]: Ivan, they weren’t mutants.
+
+The patient stands up.
+
+[S]: Krasny, is everything alright?
+
+The patient places his hand on Ivan’s shoulder.
+
+[K]: They were our redemption. And we killed them. We killed them.
+
+[S]: Krasny, calm down. What are you talking about?
+
+[K]: Don’t you see it, fool!? We had a chance to rise up from the ashes of what had happened. And we killed that chance. Just as we kill everything else, not excluding ourselves.
+
+[S]: Krasny, listen-
+
+[K]: No, you listen Ivan! We had a chance to prove to ourselves that we aren’t monsters. And we wasted that chance.
+*the patient looks down at the floor* We are monsters after all.
+
+[S]: Krasny, if it wasn’t for Kamazov-
+
+[K]: Then what!? What would YOU do in his situation!?
+
+[S]: I... um…
+
+[K]: That’s what I meant. After all, all we managed to prove is that we are the freaks of nature. Killing other species not for survival, but because they’re different. *the patient sighs* That’s- That’s all I wanted to say.
+
+The patient sits down on his bed.
+
+[S]: Krasny! 
+
+Ivan reaches his hand out to grab the patient, but stops after Doctor puts hand on his shoulder.
+
+Ivan looks back at the Doctor, who in return just slowly shakes his head.
+
+Ivan and Doctor leave the room.
+
+End of transcript.
+
+
+
+[SUPPLEMENT 55082-4A]
+Discription of death of the patient.
+
+Patient has died on night between 25th and 26th of November, 2044.
+
+The cause of death was overdosage of morphine, most likely administered by patient himself.
+
+No signs of inference by a third person were found.
+
+Side Note: A picture was found carved into wall of the patient’s room. It depicts two large ellipses with circles inside, -most probably a depicion of eyes- with several lines running downwards from each of them. Next to the drawing, a text “WE ARE THE FREAKS” was carved out. Drawing was most likely done by the patient before he commited suicide.
+Author - Me
+Edits - Tomoe, Sven",48170,Jieux,1,Vienna,2018-04-28 01:09:05,((((((((..(((((.(((((..(((..(((((..(((((.(((((((((((....))))..)))))))))))).)))))(((...(((...........))))))))).)))))))))).))))(((((.(((....((((((.(((.(((..((.(((((...))).))..)).))))))..)))...))))))..)))))((((.((((((((((.(((((((((...........)))...)))(((((.((((((((((((..((((....))))))))))).)))))..)))))..)))..))))).)))))..)))))))),"SHAPE,0,GU,34,GC,23",23,,34,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""((((((((..(((((.(((((..(((..(((((..(((((.(((((((((((....))))..)))))))))))).)))))(((...(((...........))))))))).)))))))))).))))(((((.(((....((((((.(((.(((..((.(((((...))).))..)).))))))..)))...))))))..)))))((((.((((((((((.(((((((((...........)))...)))(((((.((((((((((((..((((....))))))))))).)))))..)))))..)))..))))).)))))..))))))))""}]"
+3,8778109,Jiminy Flippit: TIghter and now with more AU!,For Lroppy,48170,Jieux,1,Vienna,2018-05-02 04:30:05,(..(((((..((((..((((((...)))))).))....))..)(..(..((..(((.......(((....))).....(((....)))......)))..))..)..)(..((....((.((((((...))))))..))))..)))))..),"SHAPE,0,GC,8,AU,29",8,29,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""(..(((((..((((..((((((...)))))).))....))..)(..(..((..(((.......(((....))).....(((....)))......)))..))..)..)(..((....((.((((((...))))))..))))..)))))..)""}]"
+3,8835502,Be Very Patient wawan151,"Tightening of Be Patient by wawan151
+http://www.eternagame.org/game/puzzle/2340497/",48170,Jieux,1,Vienna,2018-05-31 06:28:54,((.(.(.(.((((((((..(((.(((.(((...)))...)))...))))))...)))......(((...((((((...(((...(((...))).))).)))..)))))))).).).).)),"SHAPE,0,GU,12,GC,12",12,,12,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""((.(.(.(.((((((((..(((.(((.(((...)))...)))...))))))...)))......(((...((((((...(((...(((...))).))).)))..)))))))).).).).))""}]"
+3,8845773,El Bombito Revisited,"Original puzzle by RedSimple (RedSpah) http://www.eternagame.org/web/puzzle/3697535/
+J1's version http://www.eternagame.org/game/puzzle/3705543/",48170,Jieux,1,Vienna,2018-06-05 01:16:56,.((((((..((((((((..((((.(((.((((..(((....))).((((.(((....)))..)))))))).)))..)))))))).(((.(.((((((((....)))).)))).).)))..))))..)))))),"SHAPE,0,GC,0,AU,47",0,47,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":"".((((((..((((((((..((((.(((.((((..(((....))).((((.(((....)))..)))))))).)))..)))))))).(((.(.((((((((....)))).)))).).)))..))))..))))))"",""type"":""single""}]"
+3,8898185,Humarna with weapons and cruel horns,"Solving this gets you a bunch of other puzzles as well
+Shapes by wawan151 & Brourd",48170,Jieux,1,Vienna,2018-07-06 08:13:59,((((((((.(((....).).)).)))))))..((.((....((...(..(((((((((..((....))((....).).))))).))))..)..))..))..(..(..((..((.....((..((..(((.((.(((..(...)..)))).))))...)).))..))..)..(..((..((.((...((((.((((..(...)..))).)).)))..))..)).....))..))..)..)..((..((...(..((((((((.(.((.(.(((...)))).(.(((...)))).(.(((...)))).).).).))))).)))..)..))....)).))..(((((((.((.(.(....))).)))))))),"SHAPE,0",,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""((((((((.(((....).).)).)))))))..((.((....((...(..(((((((((..((....))((....).).))))).))))..)..))..))..(..(..((..((.....((..((..(((.((.(((..(...)..)))).))))...)).))..))..)..(..((..((.((...((((.((((..(...)..))).)).)))..))..)).....))..))..)..)..((..((...(..((((((((.(.((.(.(((...)))).(.(((...)))).(.(((...)))).).).).))))).)))..)..))....)).))..(((((((.((.(.(....))).))))))))"",""type"":""single""}]"
+3,8970444,[VRNA_2]Slow and Tiresome 1,"Mod of ""Quick and Easy 15"" by cynwulf28
+https://eternagame.org/game/puzzle/8969612/",48170,Jieux,1,Vienna2,2018-08-25 04:19:13,.((..((.((.((.....)))))).))..((..((.((.((.....)))))).)).,"SHAPE,0,GU,5,GC,6",6,,5,oooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":"".((..((.((.((.....)))))).))..((..((.((.((.....)))))).))."",""type"":""single""}]"
+3,9027519,Smelly Cat Schrödingered,Quantum Fun (I think many more CG can come out but I started from a past solution and would have begun differently otherwise.,48170,Jieux,1,Vienna,2018-10-07 04:24:35,.((.((((......).)))))..(((........)))..(.((..(..(..((..(..(((.......)))..).(..(..((....)).)..)(..(..((.(...(..(..(.((.((....)).)))..).).)))..)..)..))..).)..))..)...((.((.............(.........)...........(.........).....)).))..,"SHAPE,0,GU,9,GC,22,AU,11",22,11,9,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":"".((.((((......).)))))..(((........)))..(.((..(..(..((..(..(((.......)))..).(..(..((....)).)..)(..(..((.(...(..(..(.((.((....)).)))..).).)))..)..)..))..).)..))..)...((.((.............(.........)...........(.........).....)).))..""}]"
+3,9124357,Just a Puzzle - lroppy edition,This is more along the lines of what I meant... didn't want to do it but here I am doing it... still think it can be reduced some more... threw in another UG for you.,48170,Jieux,1,Vienna,2018-11-30 05:10:16,.(((((((((((....)..)))(((((((((.....)))((((...(((((....)....(((.(.(....))))))))).(((.......))))))).....((((((..(.(((.((....).))))..).))))))(((....)))))))))((((...(....)...(...)...))))...)))..)))).,"SHAPE,0,GU,4,GC,32",32,,4,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":"".(((((((((((....)..)))(((((((((.....)))((((...(((((....)....(((.(.(....))))))))).(((.......))))))).....((((((..(.(((.((....).))))..).))))))(((....)))))))))((((...(....)...(...)...))))...)))..))))."",""type"":""single""}]"
+3,9231316,No RedSpah's Wrong Angles,"No Guanine allowed here! Thanks to RedSpah's <a href=""https://eternagame.org/web/puzzle/5091336/"">Wrong Angles</a>",48166,jnicol,1,Vienna,2019-02-09 03:05:59,((((((......)))))).(((..((((((....((((....(((((((((((((((....((((....((((((......))))))))))))))))....)))....))))))))))))))))..))),"SHAPE,0,AU,44",,44,,ooooooxoooooooooooooooxxoooooooooooooooooooooooooooooooooooooooooooooooooooxooooooooooooooooooooooooooooooooooooooooooooooooxxooo,AAAAAAUAAAAAAAAAAAAAAAUUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAUUAAA,"[{""secstruct"":""((((((......)))))).(((..((((((....((((....(((((((((((((((....((((....((((((......))))))))))))))))....)))....))))))))))))))))..)))"",""type"":""single""}]"
+3,9522209,Teslahog's Phantom Pairs,"Two puzzles for the price of one... the UG from each as well as a couple AU just for sport.
+
+hoglahoo:
+https://eternagame.org/game/puzzle/6227164/
+
+Tesla'sDisciple:
+https://eternagame.org/web/puzzle/6214483/",48170,Jieux,1,Vienna,2019-09-13 06:20:43,..(((((..(..((.........(((....).)))).((.((..((...))......(....)))))....).))))).(((((.(....(((((....)......(((...)))..)).)).((((.(....)))..........))..)..)))))..,"SHAPE,0,GU,2,AU,2",,2,2,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""..(((((..(..((.........(((....).)))).((.((..((...))......(....)))))....).))))).(((((.(....(((((....)......(((...)))..)).)).((((.(....)))..........))..)..))))).."",""type"":""single""}]"
+3,9532748,Yellow Rice,"Inspired by <a href=""https://eternagame.org/web/puzzle/9519201/"">TheInverted's Rice</a>",48166,jnicol,1,Vienna,2019-09-21 11:08:39,(((((((((((...((((.((((((((..((((((..(((((((((.....(((((((((((((((((((((((..(((((.((((.........((((....)))).........))))...))))))))))..))).)))))).))))).))))....)))).)))))..))))))..)))))))).))))..))))))))))),"SHAPE,0,AU,74",,74,,oooooooooooxxxooooxooooooooxxooooooxxoooooooooxxxxxoooooooooooooooooooooooxxoooooxooooxxxxxxxxxooooxxxxooooxxxxxxxxxooooxxxooooooooooxxoooxooooooxoooooxooooxxxxooooxoooooxxooooooxxooooooooxooooxxooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""secstruct"":""(((((((((((...((((.((((((((..((((((..(((((((((.....(((((((((((((((((((((((..(((((.((((.........((((....)))).........))))...))))))))))..))).)))))).))))).))))....)))).)))))..))))))..)))))))).))))..)))))))))))"",""type"":""single""}]"
+3,10235339,Mod of Easier Garland for Mat747,"Can't seem to find that last GU pair, and have an AU where I think the last GU should go. However, the best I can manage to get the kcal down to when I change it to a GU is 0.6 kcal, so I don't know.",55300,jmf028,1,Vienna,2020-09-06 06:39:59,(((((....))(((((....))(((((....))(((((....))(((((....))(((((....))(((((....))(((((....))(((((....))(((((....)).....)))....)))....)))....)))....)))....)))....))).(.(((((((((...))))))))).).)))....)))....))),"SHAPE,0,GU,19,AU,9",,9,19,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooxxxxxxxooooxoooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""(((((....))(((((....))(((((....))(((((....))(((((....))(((((....))(((((....))(((((....))(((((....))(((((....)).....)))....)))....)))....)))....)))....)))....))).(.(((((((((...))))))))).).)))....)))....)))""}]"
+3,11331851,The owl,Thanks to everybody that has ever looked at this series of puzzles.,42833,JR,1,Vienna,2022-06-22 16:00:20,((..(((((...)))..))..))..((.(((((((((....)).))((..((.((..(((...(((((((((....)))))))))))).))))..))))).))..((.(((((..((((.(((((((((((....))))))))...)))..)).))..))((.((....))))))))).))..((..((..(((...)))))..)),"SHAPE,0,GC,20",20,,,oooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""((..(((((...)))..))..))..((.(((((((((....)).))((..((.((..(((...(((((((((....)))))))))))).))))..))))).))..((.(((((..((((.(((((((((((....))))))))...)))..)).))..))((.((....))))))))).))..((..((..(((...)))))..))"",""annotations"":[]}]"
+3,13321082,The 3 GC,"A tightened version of the fantastic puzzle by HMK entitled ""The_3_?""
+
+Play the original here: https://eternagame.org/puzzles/6119353/play
+
+Enjoy!
+
+Edit: This puzzle remained unsolved for a little over 50 hours before finally being mastered by the player JR, who has taken down my most difficult puzzles with great skill! This was the longest time that a puzzle of mine remained a no-solver, so congrats to JR!",260362,TheInverted,1,Vienna,2024-01-07 00:01:44,.(((((((((.(((.((((.(((.(((.(((.(((.(((......)))))))))))))))))))))))))))..))))...(((((((((.(((.((((.(((.(((.(((.(((.(((......)))))))))))))))))))))))))))..))))...(((((((((.(((.((((.(((.(((.(((.(((.(((......)))))))))))))))))))))))))))..)))).,"SHAPE,0,GU,4,GC,3",3,,4,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":"".(((((((((.(((.((((.(((.(((.(((.(((.(((......)))))))))))))))))))))))))))..))))...(((((((((.(((.((((.(((.(((.(((.(((.(((......)))))))))))))))))))))))))))..))))...(((((((((.(((.((((.(((.(((.(((.(((.(((......)))))))))))))))))))))))))))..))))."",""annotations"":[]}]"
+3,13964839,Revolver,A further tightening of tallow honeycomb,280527,Aaron P,0,Vienna,2025-05-01 10:47:32,(((.((((.((((.((((.((((.((((.......))))....))))....))))....)))).((((.((((.((((.((((.((...))....))))....))))....)))).((...)).)))).)))).((((.((((.((((....((...)).)))).((((.((((.((((.((((....((((.((((.((...))....))))....)))).))))....))))....))))....)))).)))).((((.((((.((((.((...))....))))....)))).((((....((((....((...)).)))).)))).)))).)))).))),"SHAPE,0,GC,14",14,,,ooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooxxxoooooooooooooooooooooooooooooxxxoooooooooooooooooooooooooooooooooxxxoooooooooooooooooooooooooooooooooooooooooooxxxooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooooxxxoooooooooooooooooooooooooooooooooooooxxxoooooooooooooooooooooooooo,AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA,"[{""type"":""single"",""secstruct"":""(((.((((.((((.((((.((((.((((.......))))....))))....))))....)))).((((.((((.((((.((((.((...))....))))....))))....)))).((...)).)))).)))).((((.((((.((((....((...)).)))).((((.((((.((((.((((....((((.((((.((...))....))))....)))).))))....))))....))))....)))).)))).((((.((((.((((.((...))....))))....)))).((((....((((....((...)).)))).)))).)))).)))).)))"",""annotations"":[]}]"
