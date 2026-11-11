@@ -10,9 +10,12 @@ This repository contains a list of Eterna player puzzles (2013-2025) that at mos
 
 ## Files
 - `groups/eterna-hard-group{N}.csv`: one row per puzzle, columns below.
-  - [Group 1](groups/eterna-hard-group1.csv)
-  - [Group 2](groups/eterna-hard-group2.csv)
-  - [Group 3](groups/eterna-hard-group3.csv)
+
+Links to each CSV are available at:
+
+- [Eterna Hard Group 1 CSV](groups/eterna-hard-group1.csv)
+- [Eterna Hard Group 2 CSV](groups/eterna-hard-group2.csv)
+- [Eterna Hard Group 3 CSV](groups/eterna-hard-group3.csv)
 
 ## Validation
 Once you have solutions, you (or your agent) can go directly to the puzzles at the puzzle links and paste in the solutions. 
@@ -30,9 +33,9 @@ The CSVs already have the columns needed by the validator script.
 
 Links to each group are available at:
 
-- [Eterna Hard Group 1](https://eternagame.org/labs/16022932)
-- [Eterna Hard Group 2](https://eternagame.org/labs/16529751)
-- [Eterna Hard Group 3](https://eternagame.org/labs/16571909)
+- [Eterna Hard Group 1 lab page](https://eternagame.org/labs/16022932)
+- [Eterna Hard Group 2 lab page](https://eternagame.org/labs/16529751)
+- [Eterna Hard Group 3 lab page](https://eternagame.org/labs/16571909)
 
 with more to come.
 
