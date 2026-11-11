@@ -10,6 +10,9 @@ This repository contains a list of Eterna player puzzles (2013-2025) that at mos
 
 ## Files
 - `groups/eterna-hard-group{N}.csv`: one row per puzzle, columns below.
+  - [Group 1](groups/eterna-hard-group1.csv)
+  - [Group 2](groups/eterna-hard-group2.csv)
+  - [Group 3](groups/eterna-hard-group3.csv)
 
 ## Validation
 Once you have solutions, you (or your agent) can go directly to the puzzles at the puzzle links and paste in the solutions. 
